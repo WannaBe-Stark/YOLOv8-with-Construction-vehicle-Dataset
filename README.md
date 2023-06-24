@@ -21,3 +21,16 @@ https://drive.google.com/file/d/1UyMWe20f_o9r4EUgBjVaoJFXaJwQpaK1/view?usp=drive
 |Mobile crane|0.902|0.935|0.948|0.947|0.948|
 |Remicon|0.908|0.923|0.937|0.941|0.94|
 |Scraper|0.908|0.921|0.927|0.933|0.939|
+
+### Object Detection Results for YOLOv8 by Version
+|Methods|mAP|
+|------|------|
+|YOLOv8n|0.906|
+|YOLOv8s|0.928|
+|YOLOv8m|0.937|
+|YOLOv8l|0.941|
+|YOLOv8x|0.941|
+
+
+
+
