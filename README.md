@@ -31,6 +31,7 @@ https://drive.google.com/file/d/1UyMWe20f_o9r4EUgBjVaoJFXaJwQpaK1/view?usp=drive
 |YOLOv8l|0.941|
 |YOLOv8x|0.941|
 
-
+### Object Detection Result Sample Image
+![images--39-_jpg rf 2dd5aee03285cc214ed00017c7334bc3](https://github.com/WannaBe-Stark/YOLOv8-with-Construction-vehicle-Dataset/assets/110301841/c85109f1-6e36-43e3-996a-0d86738031e5)
 
 
